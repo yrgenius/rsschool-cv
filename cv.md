@@ -15,7 +15,11 @@
 
 > a journey of a thousand miles begins with one step
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus blanditiis unde animi iste quisquam quia illum sunt nam. Numquam\odit cumque quaerat laborum facere minus ab voluptatibus! Possimus magnam doloribus atque ducimus ut aliquam sed? Voluptatum, sint\architecto itaque doloremque repellat explicabo doloribus quis quasi dolorum inventore minus, excepturi sit!
+I spend all my free time learning frontend development. I really want to learn and develop new skills. This interests me because it gives me a sense of inexplicable ecstasy when I write "git push" in the console. It's incredible.
+
+My ultimate goal is to level up in development, to find friends and inner Zen in this area.
+
+I'll keep trying until I make it a reality.
 
 ---
 
